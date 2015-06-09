@@ -3,5 +3,6 @@ Changelog for Designcouch.com, third version
 DC 3.2.11
 ====================================
 - Updated title tag to strip all html
+- Added Client List & associated styling
 
 
